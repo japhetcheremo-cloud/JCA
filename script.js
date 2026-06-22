@@ -17,6 +17,7 @@ const words = [
   "JavaScript Expert",
   "UI Engineer",
   "Future Tech Founder"
+  
 ];
 
 let wordIndex = 0;
